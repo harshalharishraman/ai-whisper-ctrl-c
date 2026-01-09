@@ -1,0 +1,7 @@
+{
+  "name": "AI Travel Agent",
+  "description": "A smart travel planning application that uses a multi-agent AI system to research destinations, build day-wise itineraries, and provide live cost breakdowns based on budget tiers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
